@@ -1,6 +1,6 @@
 {
   "name": "esbuild-plugin-gutt-browser-stringifier",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "Esbuild plugin for gutt browser stringifier",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "gutt": "^0.5.1",
-    "gutt-browser-stringifier": "^0.8.4"
+    "gutt-browser-stringifier": "^0.9.0"
   },
   "peerDependencies": {
     "esbuild": "^0.18.11"
